@@ -1,7 +1,7 @@
 # Tabintaban.github.io
 Русский | English
 --- | ---
-### Partwater token&jetton - код, условно-бесплатная программа, криптоаналог "купона (талона) на бензин" | Partwater taken&jeton - code, shareware program, cryptanalog of the coupon for gasoline.
+Partwater token&jetton - код, условно-бесплатная программа, криптоаналог "купона (талона) на бензин" | Partwater taken&jeton - code, shareware program, cryptanalog of the coupon for gasoline.
 
 
 ## Аналогия для простого объяснения 
